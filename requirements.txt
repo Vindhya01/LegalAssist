@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentence-transformers
+faiss-cpu
+requests
+langchain
+langchainhub
+langchain_community
